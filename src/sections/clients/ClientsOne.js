@@ -45,7 +45,7 @@ class ClientsOne extends React.Component {
             }
         `
         const Color = styled.span`
-          color:  #04e5e5;
+          color:  #6c5ba7;
           font-size: 120px;
           line-height: 80px;
           font-family: Teko;
@@ -102,7 +102,7 @@ class ClientsOne extends React.Component {
             transition: .1s;
             &:hover {
               transform: scale(1.1);
-              background-color: #04e5e5;
+              background-color: #6c5ba7;
               z-index: 5;
               border-radius: 10px;
             }

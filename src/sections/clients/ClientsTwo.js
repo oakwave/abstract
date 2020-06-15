@@ -68,7 +68,7 @@ class ClientsTwo extends React.Component {
             justify-content: center;
             &:hover {
               transform: scale(1.1);
-              background-color: #04e5e5;
+              background-color: #6c5ba7;
               z-index: 5;
               border-radius: 10px;
             }

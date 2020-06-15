@@ -34,12 +34,12 @@ class Counter_Component extends React.Component {
         const { value, symbol} = this.props
 
         const Animation = keyframes`
-            0%  {color: #04e5e5;}
+            0%  {color: #6c5ba7;}
             10% {color: #f37055;}
             20% {color: #ef4e7b;}
             30% {color: #a166ab;}
             40% {color: #5073b8;}
-            50% {color: #04e5e5;}
+            50% {color: #6c5ba7;}
             60% {color: #07b39b;}
             70% {color: #6fba82;}
             80% {color: #5073b8;}

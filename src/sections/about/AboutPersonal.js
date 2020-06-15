@@ -68,7 +68,7 @@ class AboutPersonal extends React.Component {
                 color: #fff;
             }
             .symbol {
-                color: #04e5e5;
+                color: #6c5ba7;
                 position: absolute;
                 font-size: 39px;
                 top: -28px;
@@ -124,7 +124,7 @@ class AboutPersonal extends React.Component {
         const Separator = styled.div`
             height: 5px;
             width: 50px;
-            background-color: #04e5e5;
+            background-color: #6c5ba7;
             margin-bottom: 20px;
         `
 

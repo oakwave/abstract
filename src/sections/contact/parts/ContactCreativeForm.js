@@ -41,7 +41,7 @@ class ContactOneForm extends React.Component {
         const Separator = styled.div`
             height: 5px;
             width: 50px;
-            background-color: #04e5e5;
+            background-color: #6c5ba7;
             margin-bottom: 30px;
             margin-left: 6px;
         `
@@ -81,7 +81,7 @@ class ContactOneForm extends React.Component {
             color: #fff;
             transition: .5s;
             &:focus {
-              border-bottom: 1px solid #04e5e5;
+              border-bottom: 1px solid #6c5ba7;
               outline: none;
             }
             &.error {
@@ -103,7 +103,7 @@ class ContactOneForm extends React.Component {
             margin-bottom: 0px;
             height: 100px;
             &:focus {
-              border-bottom: 1px solid #04e5e5;
+              border-bottom: 1px solid #6c5ba7;
               outline: none;
             }
         `

@@ -43,7 +43,7 @@ class ClientsThree extends React.Component {
         `
 
         const ClientsRow = styled(Row)`
-            background: linear-gradient(120deg, #04e5e5, #f37055, #ef4e7b, #a166ab, #5073b8, #1098ad, #07b39b, #6fba82);
+            background: linear-gradient(120deg, #6c5ba7, #f37055, #ef4e7b, #a166ab, #5073b8, #1098ad, #07b39b, #6fba82);
             background-size: 300% 300%;
             animation: ${gradientAnimation} 5s ease-in-out infinite;
         `
@@ -71,12 +71,12 @@ class ClientsThree extends React.Component {
 
 
       const BackgroundColor = keyframes`
-          0%  {background-color: #04e5e5;}
+          0%  {background-color: #6c5ba7;}
           10% {background-color: #f37055;}
           20% {background-color: #ef4e7b;}
           30% {background-color: #a166ab;}
           40% {background-color: #5073b8;}
-          50% {background-color: #04e5e5;}
+          50% {background-color: #6c5ba7;}
           60% {background-color: #07b39b;}
           70% {background-color: #6fba82;}
           80% {background-color: #5073b8;}

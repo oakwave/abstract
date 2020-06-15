@@ -178,7 +178,7 @@ class Navbar extends React.Component {
             margin: 10px 5px;
             transition: .5s;
             &:hover {
-                color: #04e5e5;
+                color: #6c5ba7;
             }
             &:focus {
                 outline: none;

@@ -48,7 +48,7 @@ class Timeline extends React.Component {
                 outline: none;
             }
             &.active, &:hover {
-                background-color: #04e5e5;
+                background-color: #6c5ba7;
             }
         `
 
@@ -66,7 +66,7 @@ class Timeline extends React.Component {
         const Company = styled.h5`
             font-size: 15px;
             font-weight: 900;
-            color: #04e5e5;
+            color: #6c5ba7;
             margin-bottom: 5px;
         `
         const Text = styled.p`

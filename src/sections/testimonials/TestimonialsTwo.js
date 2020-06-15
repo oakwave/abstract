@@ -59,7 +59,7 @@ class TestimonialsTwo extends React.Component {
             }
         `
         const Color = styled.span`
-            color:  #04e5e5;
+            color:  #6c5ba7;
             font-size: 155px;
             line-height: 120px;
             font-family: Teko;
@@ -77,7 +77,7 @@ class TestimonialsTwo extends React.Component {
 
         const TestimonialBox = styled.div`
             padding: 50px;
-            background-color: #04e5e5;
+            background-color: #6c5ba7;
             min-height: 500px;
             display: flex;
             flex-direction: column;

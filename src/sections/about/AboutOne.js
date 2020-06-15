@@ -56,7 +56,7 @@ class AboutOne extends React.Component {
             }
         `
         const Color = styled.span`
-            color: #04e5e5;
+            color: #6c5ba7;
             font-size: 120px;
             line-height: 100px;
             font-family: Teko;
@@ -89,7 +89,7 @@ class AboutOne extends React.Component {
                 color: #fff;
             }
             .symbol {
-                color: #04e5e5;
+                color: #6c5ba7;
                 position: absolute;
                 font-size: 39px;
                 top: -28px;
@@ -116,7 +116,7 @@ class AboutOne extends React.Component {
                               }
                             },
                             "color": {
-                              "value": ["#03afaf","#04e5e5"]
+                              "value": ["#03afaf","#6c5ba7"]
                             },
                             "shape": {
                               "type": "circle",

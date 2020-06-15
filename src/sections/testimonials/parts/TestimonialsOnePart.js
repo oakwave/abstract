@@ -14,7 +14,7 @@ class TestimonialPart extends React.Component {
 
         const TestimonialBox = styled.div`
             padding: 50px;
-            background-color: #04e5e5;
+            background-color: #6c5ba7;
             min-height: 500px;
             display: flex;
             flex-direction: column;

@@ -130,7 +130,7 @@ class HeroVideo extends React.Component {
         const Separator = styled.div`
             height: 5px;
             width: 50px;
-            background-color: #04e5e5;
+            background-color: #6c5ba7;
             margin-bottom: 30px;
             @media (min-width:768px) {
                 margin-left: 6px;
@@ -196,7 +196,7 @@ class HeroVideo extends React.Component {
         const ServiceSeparator = styled.div`
             height: 5px;
             width: 50px;
-            background-color: #04e5e5;
+            background-color: #6c5ba7;
             margin-bottom: 10px;
         `
 

@@ -53,7 +53,7 @@ class ServicesOne extends React.Component {
         const ServiceSeparator = styled.div`
             height: 5px;
             width: 50px;
-            background-color: #04e5e5;
+            background-color: #6c5ba7;
             margin-bottom: 10px;
             margin: auto;
          `
@@ -82,7 +82,7 @@ class ServicesOne extends React.Component {
                 height: 5px;
                 width: 5px;
                 margin-right: 10px;
-                background-color:#04e5e5;
+                background-color:#6c5ba7;
                 position: relative;
                 bottom: 2.5px;
             }

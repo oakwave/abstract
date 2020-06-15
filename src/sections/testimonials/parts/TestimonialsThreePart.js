@@ -39,7 +39,7 @@ class TestimonialsThreePart extends React.Component {
             height: 100%;
             width: 100%;
             top: 0;
-            background: linear-gradient(120deg, #04e5e5, #f37055, #ef4e7b, #a166ab, #5073b8, #1098ad, #07b39b, #6fba82);
+            background: linear-gradient(120deg, #6c5ba7, #f37055, #ef4e7b, #a166ab, #5073b8, #1098ad, #07b39b, #6fba82);
             background-size: 300% 300%;
             clip-path: polygon(0% 100%, 10px 100%, 10px 10px, calc(100% - 10px) 10px, calc(100% - 10px) calc(100% - 10px), 10px calc(100% - 10px), 10px 100%, 100% 100%, 100% 0%, 0% 0%);
             animation: ${gradientAnimation} 5s ease-in-out infinite;
@@ -244,7 +244,7 @@ class TestimonialsThreePart extends React.Component {
             transition: .5s;
             margin: 0 5px;
             &:hover, &.active {
-                background-color: #04e5e5;
+                background-color: #6c5ba7;
             }
             &:focus {
                 outline: none;

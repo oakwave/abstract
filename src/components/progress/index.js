@@ -23,12 +23,12 @@ class ProgressBar extends React.Component {
             float: right;
         `
         const ColorAnimation = keyframes`
-            0%  {background: #04e5e5;}
+            0%  {background: #6c5ba7;}
             10% {background: #f37055;}
             20% {background: #ef4e7b;}
             30% {background: #a166ab;}
             40% {background: #5073b8;}
-            50% {background: #04e5e5;}
+            50% {background: #6c5ba7;}
             60% {background: #07b39b;}
             70% {background: #6fba82;}
             80% {background: #5073b8;}

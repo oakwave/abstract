@@ -41,12 +41,12 @@ class ServicesOne extends React.Component {
         `
 
         const ColorAnimation = keyframes`
-            0%  {background: #04e5e5;}
+            0%  {background: #6c5ba7;}
             10% {background: #f37055;}
             20% {background: #ef4e7b;}
             30% {background: #a166ab;}
             40% {background: #5073b8;}
-            50% {background: #04e5e5;}
+            50% {background: #6c5ba7;}
             60% {background: #07b39b;}
             70% {background: #6fba82;}
             80% {background: #5073b8;}
@@ -88,7 +88,7 @@ class ServicesOne extends React.Component {
         const ServiceSeparator = styled.div`
             height: 5px;
             width: 50px;
-            background-color: #04e5e5;
+            background-color: #6c5ba7;
             margin-bottom: 10px;
             margin: auto;
          `
@@ -101,7 +101,7 @@ class ServicesOne extends React.Component {
             display: flex;
             align-items: center;
             justify-content: center;
-            background: linear-gradient(120deg, #04e5e5, #f37055, #ef4e7b, #a166ab, #5073b8, #1098ad, #07b39b, #6fba82);
+            background: linear-gradient(120deg, #6c5ba7, #f37055, #ef4e7b, #a166ab, #5073b8, #1098ad, #07b39b, #6fba82);
             background-size: 300% 300%;
             animation: ${gradientAnimation} 5s ease-in-out infinite;
             img {

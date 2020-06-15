@@ -133,7 +133,7 @@ class HeroPersonalVideo extends React.Component {
                 right: 0;
                 bottom: 0;
                 border-radius: 5px;
-                background: linear-gradient(120deg, #04e5e5, #f37055, #ef4e7b, #a166ab, #5073b8, #1098ad, #07b39b, #6fba82);
+                background: linear-gradient(120deg, #6c5ba7, #f37055, #ef4e7b, #a166ab, #5073b8, #1098ad, #07b39b, #6fba82);
                 background-size: 300% 300%;
                 clip-path: polygon(0% 100%, 10px 100%, 10px 10px, calc(100% - 10px) 10px, calc(100% - 10px) calc(100% - 10px), 10px calc(100% - 10px), 10px 100%, 100% 100%, 100% 0%, 0% 0%);
             }
@@ -155,7 +155,7 @@ class HeroPersonalVideo extends React.Component {
             &:hover {
                 color: #fff;
                 text-decoration: none;
-                border-color: #04e5e5;
+                border-color: #6c5ba7;
             }
         `
 

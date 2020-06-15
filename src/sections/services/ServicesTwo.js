@@ -38,7 +38,7 @@ class ServicesTwo extends React.Component {
         const ServiceSeparator = styled.div`
             height: 2px;
             width: 50px;
-            background-color: #04e5e5;
+            background-color: #6c5ba7;
             margin-bottom: 5px;
          `
 
@@ -60,7 +60,7 @@ class ServicesTwo extends React.Component {
             position: relative;
             &:hover ${ServiceNumber} {
                 opacity: .3 !important;
-                color: #04e5e5;
+                color: #6c5ba7;
             }
         `
 

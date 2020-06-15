@@ -25,12 +25,12 @@ class TabsPart extends React.Component {
         `
         
         const ColorAnimation = keyframes`
-            0%  {border-color: #04e5e5;}
+            0%  {border-color: #6c5ba7;}
             10% {border-color: #f37055;}
             20% {border-color: #ef4e7b;}
             30% {border-color: #a166ab;}
             40% {border-color: #5073b8;}
-            50% {border-color: #04e5e5;}
+            50% {border-color: #6c5ba7;}
             60% {border-color: #07b39b;}
             70% {border-color: #6fba82;}
             80% {border-color: #5073b8;}

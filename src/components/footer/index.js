@@ -22,7 +22,7 @@ class Footer extends React.Component{
                 cursor: pointer;
                 transition: .5s;
                 &:hover {
-                    color: #04e5e5;
+                    color: #6c5ba7;
                 }
             }
         `

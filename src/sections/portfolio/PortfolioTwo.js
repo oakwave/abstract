@@ -25,7 +25,7 @@ class PortfolioTwo extends React.Component {
             .slick-dots {
               bottom: 0;
               li button:before,.slick-dots li.slick-active button:before {
-                color: #04e5e5;
+                color: #6c5ba7;
               }
             }
           }

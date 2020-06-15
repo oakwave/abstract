@@ -47,7 +47,7 @@ class ContactPersonal extends React.Component {
             width: 100%;
             top: 0;
             clip-path: polygon(0% 100%, 10px 100%, 10px 10px, calc(100% - 10px) 10px, calc(100% - 10px) calc(100% - 10px), 10px calc(100% - 10px), 10px 100%, 100% 100%, 100% 0%, 0% 0%);
-            background: linear-gradient(120deg, #04e5e5, #f37055, #ef4e7b, #a166ab, #5073b8, #1098ad, #07b39b, #6fba82);
+            background: linear-gradient(120deg, #6c5ba7, #f37055, #ef4e7b, #a166ab, #5073b8, #1098ad, #07b39b, #6fba82);
             background-size: 300% 300%;
             animation: ${gradientAnimation} 5s ease-in-out infinite;
         `
@@ -79,7 +79,7 @@ class ContactPersonal extends React.Component {
             text-align: center;
             position: relative;
             bottom: 75px;
-            background: linear-gradient(120deg, #04e5e5, #f37055, #ef4e7b, #a166ab, #5073b8, #1098ad, #07b39b, #6fba82);
+            background: linear-gradient(120deg, #6c5ba7, #f37055, #ef4e7b, #a166ab, #5073b8, #1098ad, #07b39b, #6fba82);
             background-size: 300% 300%;
             animation: ${gradientAnimation} 5s ease-in-out infinite;
             border-radius: 150px;
@@ -114,7 +114,7 @@ class ContactPersonal extends React.Component {
         `
 
         const InfoLink = styled.a`
-            color: #04e5e5;
+            color: #6c5ba7;
             transition: .5s;
             &:hover {
               color: #fff;

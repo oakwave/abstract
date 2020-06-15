@@ -53,7 +53,7 @@ class ContactCreative extends React.Component {
             text-align: center;
             position: relative;
             bottom: 75px;
-            background-color: #04e5e5;
+            background-color: #6c5ba7;
             border-radius: 150px;
             transition: .5s;
         `
@@ -89,7 +89,7 @@ class ContactCreative extends React.Component {
         `
 
         const InfoLink = styled.a`
-            color: #04e5e5;
+            color: #6c5ba7;
             transition: .5s;
             &:hover {
               color: #fff;

@@ -61,6 +61,15 @@ module.exports = {
       }
     },
     {
+      resolve: `gatsby-source-ghost`,
+      options: {
+          apiUrl: 'https://www.oakwave.com',
+          contentApiKey: `68ba374243fd6ddd6454582039`,
+          version: `v3` // Ghost API version, optional, defaults to "v3".
+                        // Pass in "v2" if your Ghost install is not on 3.0 yet!!!
+      }
+   },
+    {
       resolve: `gatsby-plugin-styled-components`,
       options: {
         minify: false,

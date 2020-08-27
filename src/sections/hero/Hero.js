@@ -56,7 +56,7 @@ class Hero extends React.Component {
 
         const Heading1 = styled.h1`
             font-size: 80px;
-            font-family: Teko;
+            font-family: Raleway;
             line-height: 40px;
             color: #fff;
             font-weight: 400;
@@ -81,10 +81,10 @@ class Hero extends React.Component {
             color: #fff;
             font-weight: 700;
             text-transform: uppercase;
-            background: -webkit-linear-gradient(left, #00ffff , #007a7a);
-            background: -o-linear-gradient(right, #00ffff, #007a7a);
-            background: -moz-linear-gradient(right, #00ffff, #007a7a);
-            background: linear-gradient(to right, #00ffff , #007a7a); 
+            background: -webkit-linear-gradient(left, #6c5b7a , #363463);
+            background: -o-linear-gradient(right, #6c5b7a, #363463);
+            background: -moz-linear-gradient(right, #6c5b7a, #363463);
+            background: linear-gradient(to right, #6c5b7a , #363463); 
            -webkit-background-clip: text;
            -webkit-text-fill-color: transparent;
             @media (max-width:767px) {

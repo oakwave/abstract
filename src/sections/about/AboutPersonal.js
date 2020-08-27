@@ -90,12 +90,12 @@ class AboutPersonal extends React.Component {
 
 
         const AnimatedShadow = keyframes`
-            0%   {box-shadow: 0 28px 60px rgba(4, 229, 229, .5);}
+            0%   {box-shadow: 0 28px 60px rgba(54, 52, 99, .5);}
             10%  {box-shadow: 0 28px 60px rgba(243, 112, 85, .5);}
             20%  {box-shadow: 0 28px 60px rgba(239, 78, 123, .5);}
             30%  {box-shadow: 0 28px 60px rgba(161, 102, 171, .5);}
             40% {box-shadow: 0 28px 60px rgba(80, 115, 184, .5);}
-            50% {box-shadow: 0 28px 60px rgba(4, 229, 229, .5);}
+            50% {box-shadow: 0 28px 60px rgba(54, 52, 99, .5);}
             60% {box-shadow: 0 28px 60px rgba(7, 179, 155, .5);}
             70% {box-shadow: 0 28px 60px rgba(111, 186, 130, .5);}
             80% {box-shadow: 0 28px 60px rgba(80, 115, 184, .5);}

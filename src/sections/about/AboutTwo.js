@@ -120,7 +120,7 @@ class AboutTwo extends React.Component {
             max-height: 500px;
             object-fit: cover;
             border-radius: 10px;
-            box-shadow: 0 28px 60px rgb(4,229,229,.2);
+            box-shadow: 0 28px 60px rgb(98,87,186,.2);
             @media (max-width: 767px) {
                 margin: 20px 0;
                 width: 90%;
@@ -204,7 +204,7 @@ class AboutTwo extends React.Component {
                               }
                             },
                             "color": {
-                              "value": ["#03afaf","#6c5ba7"]
+                              "value": ["#363463","#6c5ba7"]
                             },
                             "shape": {
                               "type": "circle",

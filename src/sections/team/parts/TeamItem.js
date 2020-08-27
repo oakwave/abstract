@@ -74,7 +74,7 @@ class TeamItem extends React.Component {
             height: 100%;
             width: 100%;
             top: 0;
-            background-image: linear-gradient(to top, rgba(4,229,229,1), rgba(255, 255, 255, 0));
+            background-image: linear-gradient(to top, rgba(98,87,186,1), rgba(255, 255, 255, 0));
             opacity: 0 !important;
             transition: .5s;
             display: flex;
@@ -111,10 +111,10 @@ class TeamItem extends React.Component {
                 }
             }
             &.blue-shadow {
-                box-shadow: 0 0px 15px rgb(4,229,229,.2);
+                box-shadow: 0 0px 15px rgb(98,87,186,.2);
                 transition: .5s;
                 &:hover {
-                    box-shadow: 0 0px 15px rgb(4,229,229,.5);
+                    box-shadow: 0 0px 15px rgb(98,87,186,.5);
                 }
                 
             }
